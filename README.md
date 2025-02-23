@@ -1,4 +1,4 @@
-# Native Sparse Attention (NSA) CUDA Implementation
+# 🐳 Native Sparse Attention (NSA) CUDA Implementation 🐳
 
 This repository contains a high-performance CUDA implementation of the Native Sparse Attention mechanism for transformer models. The implementation is designed to be efficient for long-context modeling on modern GPU hardware and is fully differentiable to support end-to-end training.
 
